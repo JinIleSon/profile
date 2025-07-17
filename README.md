@@ -1,3 +1,4 @@
 # profile
 profile
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=thswlsldf)](https://solved.ac/thswlsdlf)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thswlsdlf)](https://solved.ac/thswlsldf)
